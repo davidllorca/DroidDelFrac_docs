@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/actionPayEvent"
+        android:icon="@drawable/open"
+        android:orderInCategory="80"
+        android:showAsAction="always|collapseActionView"
+        android:title="Pay Event"/>
+    
+    <item
+        android:id="@+id/actionNewExpense"
+        android:icon="@drawable/ic_add_expense"
+        android:orderInCategory="90"
+        android:showAsAction="always|collapseActionView"
+        android:title="New expense"/>
+
+</menu>

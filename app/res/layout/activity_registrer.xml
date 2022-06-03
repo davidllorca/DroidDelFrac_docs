@@ -1,0 +1,92 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:background="@color/white" >
+
+    <EditText
+        android:id="@+id/editTextRegisterPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editTextRepeatPassword"
+        android:layout_below="@+id/editTextRegisterMail"
+        android:ems="10"
+        android:hint="@string/enterPassword"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/editTextRepeatPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextRegisterPassword"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:ems="10"
+        android:hint="@string/repeatPassword"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/buttonNext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editTextRepeatPassword"
+        android:layout_alignRight="@+id/editTextRepeatPassword"
+        android:layout_below="@+id/editTextPhone"
+        android:background="@drawable/rounded_button"
+        android:text="@string/register"
+        android:textColor="@color/white" />
+
+    <EditText
+        android:id="@+id/editTextRegisterMail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editTextRegisterPassword"
+        android:layout_alignRight="@+id/editTextRegisterPassword"
+        android:layout_below="@+id/imageViewStateUser"
+        android:ems="10"
+        android:hint="@string/enterMail"
+        android:inputType="textEmailAddress" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editTextPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewPhone"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:layout_marginBottom="20dp"
+        android:hint="@string/enterPhone"
+        android:inputType="phone" />
+
+    <TextView
+        android:id="@+id/textViewPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editTextRepeatPassword"
+        android:layout_alignRight="@+id/editTextRepeatPassword"
+        android:layout_below="@+id/textViewShowpassword"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/enterPhoneDescription"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/imageViewStateUser"
+        android:layout_width="110dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/reg1logo" />
+
+    <CheckBox
+        android:id="@+id/textViewShowpassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewPhone"
+        android:layout_below="@+id/editTextRepeatPassword"
+        android:text="@string/showPassword" />
+
+</RelativeLayout>

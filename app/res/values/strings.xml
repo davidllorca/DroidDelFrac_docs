@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Droid del Frac</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_confirm">Confirmar</string>
+    <string name="action_refuse">Rechazar</string>
+    <string name="who_do_payment">Seleccione la persona que ha hecho el pago</string>
+    <string name="amount_payment">Importe</string>
+    <string name="concept_payment">Concepto (opcional)</string>
+    
+    <!-- EditTexts -->
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="mail">E-mail</string>
+    <string name="enterMail">Introduce e-mail</string>
+    <string name="enterPassword">Introduce contraseña</string>
+    <string name="repeatPassword">Repite contraseña</string>
+    <string name="enterPhone">Introduce tu teléfono</string>
+    <string name="enterUserName">Introduce nombre de usuario</string>
+    <string name="eventName">Nombre del evento</string>
+    <string name="eventDescription">Descripción</string>
+    <string name="eventDate">Fecha</string>
+    <string name="eventPlace">Lugar</string>
+    <string name="bugdetTitle">Presupuesto total</string>
+    
+    <!-- Hint -->
+    <string name="addAmount">p.ej. 32.25</string>
+    <string name="concept_example">p.ej. Bebida</string>
+
+    <!-- TextViews -->
+    <string name="enterPhoneDescription">Introduce tu número de teléfono para que puedas compartir gastos con tus contactos</string>
+    <string name="showPassword">Mostrar contraseña</string>
+    <string name="hidePassword">Ocultar contraseña</string>
+    <string name="upcomingEvents">Eventos próximos</string>
+    <string name="closedEvents">Eventos finalizados</string>
+    <string name="pendingEvents">Eventos por confirmar</string>
+    <string name="inviteUsers">Invitar participantes</string>
+    <string name="confirmParticipation">¿Deseas participar en el evento?</string>
+    <string name="synchUsers">Todavía no tienes contactos. Pulsa el botón de la barra superior para sincronizar.</string>
+    <string name="createEvent">Todavía no tienes eventos. Pulsa el botón de la barra superior para comenzar.</string>
+	<string name="loadData">Cargando...</string>
+	<string name="eventBillTitle">Cuentas entre participantes:</string>
+    
+    <!-- Buttons -->
+    <string name="register">Registrar</string>
+    <string name="login">Entrar</string>
+    <string name="next">Siguiente</string>
+    <string name="finishRegister">Finalizar registro</string>
+    <string name="updateProfileChanges">Confirmar cambios</string>
+    <string name="participe">Participar</string>
+	<string name="pendingConfirmParticipation">Quizás</string>
+	<string name="noParticipe">No participar</string>
+    
+    <!-- CheckBoxes -->
+    <string name="keepLogged">Mantener conectado/a</string>
+
+    <!-- Tabs -->
+    <string name="infoTab">Info</string>
+    <string name="guestsTab">Participantes</string>
+    <string name="chatTab">Chat</string>
+
+    <!-- Toasts -->
+    <string name="notConnectionFound">No se ha podido realizar la conexión. Revise su conexión a Internet</string>
+    <string name="emptyFields">Los campos están vacíos</string>
+    <string name="wrongLogin">Usuario y/o contraseña incorrectos</string>
+    <string name="mailUnique">Éste e-mail ya está registrado</string>
+    <string name="phoneUnique">Éste teléfono ya está registrado</string>
+    <string name="badRequest">Se ha producido un error, vuelva a intentarlo</string>
+    <string name="userExists">El usuario ya existe</string>
+    <string name="invalidEmail">Formato de e-mail no válido</string>
+    <string name="invalidPhone">Formato de teléfono no válido</string>
+    <string name="diferentPasswords">Error: Vuelva ha introducir la contraseña</string>
+    <string name="loginCorrect">Login correcto</string>
+    <string name="updateCorrect">Perfil actualizado correctamente</string>
+    <string name="nameRequired">Introduce nombre al evento</string>
+    <string name="noContacts">No se ha encontrado ningún contacto en el teléfono</string>
+    <string name="addedContacts">Contactos añadidos correctamente</string>
+    <string name="addedExpense">Gasto añadido correctamente</string>
+    <string name="firstConfirmet">Para añadir un gasto primero debes confirmar tu asistencia</string>
+
+    <!-- Select image dialog -->
+    <string-array name="select_photo_dialog">
+        <item>Nueva foto</item>
+        <item>Desde la galería</item>
+    </string-array>
+
+    <string name="photoDialogTitle">Selecciona tu foto</string>
+
+    <!-- NavigationDrawer menu -->
+    <string-array name="tagsNavigationDrawer">
+        <item>Inicio</item>
+        <item>Editar mi perfil</item>
+        <item>Sincronizar contactos</item>
+        <item>Buzón de sugerencias</item>
+        <item>Ajustes</item>
+        <item>Desconectarme</item>
+    </string-array>
+    
+    <!-- Money -->
+    <string-array name="money">
+        <item>€</item>
+        <item>$</item>
+        <item>£</item>
+        <item>¥</item>
+    </string-array>
+
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+
+    <!-- Dialogs -->
+    <string name="alertTitle">Alerta Droid del Frac</string>
+    <string name="noContactsSync">No se ha encontrado ningún usuario. ¿Desea sincronizar los contactos con la agenda del teléfono?</string>
+    <string name="syncronize">Sincronizar</string>
+    <string name="later">Mas tarde</string>
+    <string name="addExpense">Añadir nuevo gasto</string>
+    <string name="expenseName">Descripción del gasto</string>
+    <string name="expenseAmount">Importe</string>
+    <string name="addGuestTitle">Añadir participantes</string>
+    <string name="addGuestWithoutApp">Añade participantes que no dispongan de la aplicación:</string>
+    <string name="guestName">Nombre del participante</string>
+    <string name="add">Añadir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="title_activity_add_expense">Añadir gasto</string>
+    <string name="noContactSelected">No hay ningún contacto seleccionado.¿Desea saltarse este paso?</string>
+    <string name="skip">Saltar este paso</string>
+    <string name="invitationsSent">Invitaciones enviadas correctamente</string>
+    <string name="infoBills">Espera a que el evento se cierre para ver el resultado</string>
+    <string name="infoExp">Pulsa sobre el icono de la barra superior para añadir vuestro primer gasto</string>
+    <string name="ok">OK</string>
+    <string name="exitAndDeleteEvent">¿Desea salir y eliminar el evento?</string>
+    
+    
+    <!-- PRUEBAS BORRAR AL TERMIAR -->
+    <string-array name="contacts">
+        <item>Selecciona un contacto</item>
+        <item>Antonio</item>
+        <item>David</item>
+        <item>Jessy</item>
+        <item>Micky Mouse</item>
+        <item>Bugs Bunny</item>
+        <item>Captain Caverman</item>
+    </string-array>
+    
+
+</resources>

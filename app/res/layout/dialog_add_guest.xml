@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"  
+    android:padding="10dp"  
+    android:layout_height="wrap_content" >
+
+    <TextView
+        android:id="@+id/textViewTitleAddGuest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:textSize="16sp"
+        android:text="@string/addGuestWithoutApp" />
+
+    <ImageButton
+        android:id="@+id/imageButtonAddGuestToList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/editTextGuestName"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/buttons_style"
+        android:padding="10dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/white"
+        android:src="@drawable/ic_add_phantom" />
+
+    <EditText
+        android:id="@+id/editTextGuestName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textViewTitleAddGuest"
+        android:layout_toLeftOf="@+id/imageButtonAddGuestToList"
+        android:ems="10"
+        android:layout_marginBottom="10dp"
+        android:hint="@string/guestName" />
+
+    <LinearLayout
+        android:id="@+id/buttonsLayoutAddGuests"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/editTextGuestName" >
+
+        <Button
+            android:id="@+id/buttonCancelAddPhantomGuest"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/buttons_style"
+            android:textColor="@color/white"
+            android:text="@string/cancel" />
+
+        <Button
+            android:id="@+id/buttonAddPhantomGuest"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/buttons_style"
+            android:textColor="@color/white"
+            android:layout_weight="1"
+            android:text="@string/add" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listViewNewGuests"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonsLayoutAddGuests" >
+    </ListView>
+
+</RelativeLayout>

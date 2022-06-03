@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageButton
+        android:id="@+id/icPerfilConfirmPerson"
+        android:layout_width="@android:dimen/app_icon_size"
+        android:layout_height="@android:dimen/app_icon_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/circle"
+        android:src="@drawable/ic_launcher_oval" />
+
+    <ImageView
+        android:id="@+id/icStatus"
+        android:layout_width="@android:dimen/app_icon_size"
+        android:layout_height="@android:dimen/app_icon_size"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="24dp"
+        android:background="@drawable/circle"
+        android:src="@android:drawable/ic_delete" />
+
+    <TextView
+        android:id="@+id/itemEventName"
+        android:layout_width="match_parent"
+        android:layout_height="@android:dimen/app_icon_size"
+        android:layout_toRightOf="@id/icPerfilConfirmPerson"
+        android:layout_toStartOf="@id/icStatus"
+        android:gravity="center|center_vertical"
+        android:text="Event name" />
+
+</RelativeLayout>

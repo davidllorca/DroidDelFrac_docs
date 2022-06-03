@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:background="@color/white"
+    android:longClickable="true" >
+
+    <ImageButton
+        android:id="@+id/photoEventGuest"
+        android:layout_width="@android:dimen/app_icon_size"
+        android:layout_height="@android:dimen/app_icon_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:adjustViewBounds="true" 
+        android:background="@drawable/circle"
+        android:src="@drawable/ic_launcher_oval" />
+
+    <TextView
+        android:id="@+id/nameEventGuest"
+        android:layout_width="match_parent"
+        android:layout_height="@android:dimen/app_icon_size"
+        android:layout_toLeftOf="@+id/imageViewStateUser"
+        android:layout_toRightOf="@id/photoEventGuest"
+        android:gravity="center|center_vertical"
+        android:text="guest name" />
+
+    <ImageView
+        android:id="@+id/imageViewStateUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/nameEventGuest"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ic_pending_confirm" />
+
+</RelativeLayout>

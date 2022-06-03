@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:tag="tabEventGuest" >
+
+    <LinearLayout
+        android:id="@+id/linearLayoutConfirmParticipation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#eeeeee"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textViewPhone"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/confirmParticipation"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:id="@+id/linearLayoutUserState"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#eeeeee" >
+
+            <Button
+                android:id="@+id/buttonDiscardParticipation"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/noParticipe"
+                android:textSize="14sp" />
+
+            <Button
+                android:id="@+id/buttonPendingConfirmParticipation"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pendingConfirmParticipation"
+                android:textSize="14sp" />
+
+            <Button
+                android:id="@+id/buttonConfirmParticipation"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/participe"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ListView
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+   		android:layout_marginRight="20dp"
+        android:id="@+id/listViewContacts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayoutConfirmParticipation" >
+    </ListView>
+
+</RelativeLayout>

@@ -1,0 +1,2160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.ListBills" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/ListBills.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="95" width="190" x="1849" y="5153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="org.escoladeltreball.droiddelfrac.adapters.EventBillsAdapter.ViewHolder" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/EventBillsAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="185" width="181" x="395" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncUserEventState" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncUserEventState.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="188" x="2338" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="org.escoladeltreball.droiddelfrac.util.task.LaunchIntentTask" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/LaunchIntentTask.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="178" x="5053" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="org.escoladeltreball.droiddelfrac.adapters.InviteContactsAdapter.ViewHolder" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/InviteContactsAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="131" width="244" x="5233" y="5153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="org.escoladeltreball.droiddelfrac.activity.AddExpenseActivity" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/AddExpenseActivity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="293" width="230" x="1251" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="org.escoladeltreball.droiddelfrac.activity.BaseMenuActivity" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/BaseMenuActivity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="77" width="177" x="3517" y="1085"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="org.escoladeltreball.droiddelfrac.util.Util" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/Util.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="257" x="5517" y="5153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="org.escoladeltreball.droiddelfrac.activity.ExitEventDialogFragment" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/ExitEventDialogFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="113" width="177" x="1812" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="org.escoladeltreball.droiddelfrac.adapters.EventViewAdapter" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/EventViewAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="185" width="226" x="-108" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="org.escoladeltreball.droiddelfrac.util.Constants" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/Constants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="689" width="205" x="2885" y="5927"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="org.escoladeltreball.droiddelfrac.activity.EditProfileFragment" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/EditProfileFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="311" width="293" x="2920" y="1967"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="org.escoladeltreball.droiddelfrac.activity.EventGuestsFragment" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/EventGuestsFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="455" width="300" x="2277" y="2651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="org.escoladeltreball.droiddelfrac.activity.EventListFragment" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/EventListFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="617" width="309" x="4683" y="2651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncChangeEvent" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncChangeEvent.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="221" width="188" x="1584" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncUserEvents" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncUserEvents.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="221" width="199" x="4008" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="org.escoladeltreball.droiddelfrac.adapters.EventGuestAdapter.ViewHolder" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/EventGuestAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="181" x="2297" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="org.escoladeltreball.droiddelfrac.activity.AddGuestDialogFragment" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/AddGuestDialogFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="239" width="293" x="4318" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncListExpenses" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncListExpenses.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="226" x="1185" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.ListGuest" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/ListGuest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="239" width="190" x="1210" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" 
+    name="org.escoladeltreball.droiddelfrac.adapters.CustomExpandableListAdapter.ViewHolderChild" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/CustomExpandableListAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="167" width="181" x="4590" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.ListStrings" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/ListStrings.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="113" width="190" x="5244" y="5927"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="org.escoladeltreball.droiddelfrac.adapters.AddGuestsDialogAdapter" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/AddGuestsDialogAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="185" width="257" x="4438" y="5153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="org.escoladeltreball.droiddelfrac.activity.RegisterActivity" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/RegisterActivity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="329" width="193" x="3538" y="1598"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="org.escoladeltreball.droiddelfrac.activity.InviteGuestsActivity" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/InviteGuestsActivity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="177" x="3791" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="org.escoladeltreball.droiddelfrac.activity.EventInfoFragment" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/EventInfoFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="437" width="293" x="1230" y="2651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="org.escoladeltreball.droiddelfrac.activity.CreateEventInviteGuestFragment" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/CreateEventInviteGuestFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="545" width="293" x="4236" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.ListUsers" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/ListUsers.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="95" width="190" x="6190" y="5927"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.Contact" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/Contact.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="509" width="191" x="5604" y="5378"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="org.escoladeltreball.droiddelfrac.adapters.InviteContactsAdapter" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/InviteContactsAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="203" width="247" x="5172" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncCompareContacts" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncCompareContacts.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="167" width="224" x="6190" y="5378"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="org.escoladeltreball.droiddelfrac.activity.EventBillsFragment" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/EventBillsFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="221" width="293" x="586" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.User" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/User.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="815" width="216" x="6190" y="6656"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="org.escoladeltreball.droiddelfrac.adapters.ContactAdapter.ViewHolder" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/ContactAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="181" x="6558" y="5378"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="org.escoladeltreball.droiddelfrac.activity.BaseActivity" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/BaseActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="563" width="231" x="3715" y="482"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.Guest" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/Guest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="527" width="190" x="1451" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="org.escoladeltreball.droiddelfrac.adapters.InviteContactsAdapter.ItemFilter" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/InviteContactsAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="113" width="261" x="4869" y="5153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="org.escoladeltreball.droiddelfrac.adapters.ConfirmPersonEventAdapter" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/ConfirmPersonEventAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="185" width="271" x="604" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncRegisterUser" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncRegisterUser.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="178" x="2581" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" 
+    name="org.escoladeltreball.droiddelfrac.activity.EventListMenuActivity.DrawerItemClickListener" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/EventListMenuActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="95" width="258" x="3243" y="2651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="org.escoladeltreball.droiddelfrac.adapters.ContactAdapter" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/ContactAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="167" width="216" x="6537" y="5153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncEventUsers" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncEventUsers.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="195" x="3750" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="org.escoladeltreball.droiddelfrac.adapters.EventViewAdapter.ViewHolder" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/EventViewAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="187" x="-108" y="482"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="org.escoladeltreball.droiddelfrac.activity.DatePickerFragment" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/DatePickerFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="199" x="3243" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncAddUsers" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncAddUsers.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="185" width="199" x="4299" y="5378"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="org.escoladeltreball.droiddelfrac.sqlite.ContactsSQLiteHelper" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/sqlite/ContactsSQLiteHelper.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="294" x="5856" y="5378"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="org.escoladeltreball.droiddelfrac.adapters.CustomExpandableListAdapter" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/CustomExpandableListAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="311" width="325" x="4646" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="org.escoladeltreball.droiddelfrac.adapters.EventBillsAdapter" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/EventBillsAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="221" width="251" x="395" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncCreateEvent" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncCreateEvent.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="178" x="2988" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncAddExpense" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncAddExpense.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="188" x="2069" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncListFriends" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncListFriends.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="244" x="3466" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="org.escoladeltreball.droiddelfrac.activity.EventListMenuActivity" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/EventListMenuActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="293" width="240" x="4281" y="2318"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncAddUserPhantom" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncAddUserPhantom.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="188" x="4006" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncLogin" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncLogin.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="239" width="178" x="3456" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="org.escoladeltreball.droiddelfrac.activity.SplashScreenDialog" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/SplashScreenDialog.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="177" x="158" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="org.escoladeltreball.droiddelfrac.adapters.AddGuestsDialogAdapter.ViewHolder" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/AddGuestsDialogAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="113" width="181" x="4559" y="5378"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncUploadImg" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncUploadImg.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="256" x="2566" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="org.escoladeltreball.droiddelfrac.navigationdrawer.DrawerItem" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/navigationdrawer/DrawerItem.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="239" width="215" x="2904" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncSendContacts" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncSendContacts.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="189" x="375" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.ListEvents" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/ListEvents.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="95" width="190" x="5292" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.Group" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/Group.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="185" width="190" x="5522" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="org.escoladeltreball.droiddelfrac.activity.InvitationsSentDialogFragment" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/InvitationsSentDialogFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="198" x="4651" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="org.escoladeltreball.droiddelfrac.activity.EventActivity" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/EventActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="635" width="262" x="1767" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncLoginkeepLogged" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncLoginkeepLogged.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="239" width="187" x="5034" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncDataEvent" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncDataEvent.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="209" x="2269" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="org.escoladeltreball.droiddelfrac.adapters.TabsPagerAdapter" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/TabsPagerAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="246" x="1435" y="2318"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncListBills" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncListBills.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="185" x="1807" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.Event" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/Event.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="779" width="269" x="5755" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="org.escoladeltreball.droiddelfrac.model.Request" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/Request.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="170" x="2904" y="5153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="org.escoladeltreball.droiddelfrac.adapters.ConfirmPersonEventAdapter.ViewHolder" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/ConfirmPersonEventAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="131" width="194" x="119" y="482"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="71" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.Expense" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/Expense.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="419" width="212" x="940" y="5378"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.BillItem" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/BillItem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="545" width="282" x="616" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncEditProfile" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncEditProfile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="178" x="2962" y="2318"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="org.escoladeltreball.droiddelfrac.activity.EditProfileActivity" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/EditProfileActivity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="293" width="189" x="3253" y="1967"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" 
+    name="org.escoladeltreball.droiddelfrac.adapters.CustomExpandableListAdapter.ViewHolderGroup" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/CustomExpandableListAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="113" width="181" x="4811" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" name="org.escoladeltreball.droiddelfrac.activity.CreateEventInfoFragment" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/CreateEventInfoFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="581" width="293" x="3946" y="2651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="77" language="java" name="org.escoladeltreball.droiddelfrac.activity.LoginActivity" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/LoginActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="473" width="207" x="4806" y="1085"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="78" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.Bill" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/Bill.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="491" width="224" x="2005" y="5378"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="79" language="java" name="org.escoladeltreball.droiddelfrac.model.GetData" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/GetData.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="314" x="2531" y="5927"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="org.escoladeltreball.droiddelfrac.activity.SyncContactsFragment" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/SyncContactsFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="203" width="293" x="6439" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="org.escoladeltreball.droiddelfrac.activity.NoContactSelectedDialogFragment" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/NoContactSelectedDialogFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="222" x="4889" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="82" language="java" name="org.escoladeltreball.droiddelfrac.activity.CreateEventActivity" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/CreateEventActivity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="177" x="4429" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="83" language="java" name="org.escoladeltreball.droiddelfrac.adapters.EventInfoAdapter" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/EventInfoAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="229" x="940" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="84" language="java" name="org.escoladeltreball.droiddelfrac.adapters.EventGuestAdapter" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/EventGuestAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="227" x="2029" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="85" language="java" name="org.escoladeltreball.droiddelfrac.activity.SyncContactsDialogFragment" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/SyncContactsDialogFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="113" width="193" x="5459" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="86" language="java" name="org.escoladeltreball.droiddelfrac.util.task.AsyncPayEvent" project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/util/task/AsyncPayEvent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="167" width="178" x="3248" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="87" language="java" name="org.escoladeltreball.droiddelfrac.navigationdrawer.DrawerListAdapter" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/navigationdrawer/DrawerListAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="185" width="344" x="3541" y="2651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="88" language="java" name="org.escoladeltreball.droiddelfrac.adapters.EventInfoAdapter.ViewHolder" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/adapters/EventInfoAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="189" x="980" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="89" language="java" name="org.escoladeltreball.droiddelfrac.model.pojo.ListEvExpenses" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/model/pojo/ListEvExpenses.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="190" x="1493" y="5153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="90" language="java" name="org.escoladeltreball.droiddelfrac.activity.TimePickerFragment" 
+    project="DroidDelFrac" file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/TimePickerFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="185" x="3482" y="3308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="91" language="java" name="org.escoladeltreball.droiddelfrac.activity.AddExpenseDialogFragment" 
+    project="DroidDelFrac" 
+    file="/DroidDelFrac/src/org/escoladeltreball/droiddelfrac/activity/AddExpenseDialogFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="257" width="293" x="6106" y="4334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="92">    
+    <bendpoint x="5724" y="4334"/>    
+    <bendpoint x="5846" y="5153"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <dependency id="93">    
+    <bendpoint x="3915" y="2651"/>    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="94">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="95">    
+    <bendpoint x="3170" y="2318"/>    
+    <bendpoint x="3170" y="2651"/>    
+    <bendpoint x="3170" y="3308"/>    
+    <bendpoint x="2915" y="3659"/>    
+    <bendpoint x="2852" y="4334"/>    
+    <bendpoint x="2873" y="5153"/>    
+    <bendpoint x="2894" y="5378"/>    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <association id="96">    
+    <bendpoint x="1713" y="4334"/>    
+    <bendpoint x="1713" y="5153"/>    
+    <end type="SOURCE" refId="63" navigable="false" variant="ASSOCIATION">      
+      <attribute id="97" name="expenseList"/>      
+      <multiplicity id="98" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="99">    
+    <bendpoint x="4287" y="5153"/>    
+    <bendpoint x="4528" y="5378"/>    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="100">    
+    <bendpoint x="4526" y="482"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="77"/>  
+  </dependency>  
+  <dependency id="101">    
+    <bendpoint x="4224" y="4334"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <association id="102">    
+    <end type="SOURCE" refId="89" navigable="false" variant="ASSOCIATION">      
+      <attribute id="103" name="listExpenses"/>      
+      <multiplicity id="104" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="105">    
+    <bendpoint x="5022" y="1598"/>    
+    <bendpoint x="5022" y="1967"/>    
+    <bendpoint x="5022" y="2318"/>    
+    <bendpoint x="5022" y="2651"/>    
+    <bendpoint x="5022" y="3308"/>    
+    <bendpoint x="5022" y="3659"/>    
+    <bendpoint x="4266" y="4334"/>    
+    <bendpoint x="4266" y="5153"/>    
+    <bendpoint x="4224" y="5378"/>    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <association id="106">    
+    <end type="SOURCE" refId="27" navigable="false" variant="ASSOCIATION">      
+      <attribute id="107" name="adapter"/>      
+      <multiplicity id="108" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="109">    
+    <bendpoint x="1199" y="3308"/>    
+    <bendpoint x="1199" y="3659"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <dependency id="110">    
+    <bendpoint x="2910" y="2318"/>    
+    <bendpoint x="2910" y="2651"/>    
+    <bendpoint x="2852" y="3308"/>    
+    <bendpoint x="2852" y="3659"/>    
+    <bendpoint x="2550" y="4334"/>    
+    <bendpoint x="2550" y="5153"/>    
+    <bendpoint x="2550" y="5378"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="111">    
+    <bendpoint x="2529" y="4334"/>    
+    <bendpoint x="2831" y="5153"/>    
+    <bendpoint x="3167" y="5378"/>    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="112">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="113">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="114">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <dependency id="115">    
+    <bendpoint x="2831" y="3659"/>    
+    <bendpoint x="2831" y="4334"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <dependency id="116">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <nesting id="117">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="75"/>  
+  </nesting>  
+  <dependency id="118">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="89"/>  
+  </dependency>  
+  <generalization id="119">    
+    <bendpoint x="4269" y="2651"/>    
+    <bendpoint x="3878" y="2318"/>    
+    <bendpoint x="3486" y="1967"/>    
+    <bendpoint x="3486" y="1598"/>    
+    <bendpoint x="3486" y="1085"/>    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <dependency id="120">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="121">    
+    <bendpoint x="1532" y="3308"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="63"/>  
+  </dependency>  
+  <dependency id="122">    
+    <bendpoint x="4505" y="482"/>    
+    <bendpoint x="4526" y="1085"/>    
+    <bendpoint x="4764" y="1598"/>    
+    <bendpoint x="5001" y="1967"/>    
+    <bendpoint x="5549" y="2318"/>    
+    <bendpoint x="6098" y="2651"/>    
+    <bendpoint x="6319" y="3308"/>    
+    <bendpoint x="6540" y="3659"/>    
+    <bendpoint x="6762" y="4334"/>    
+    <bendpoint x="6485" y="5153"/>    
+    <bendpoint x="6485" y="5378"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="123">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <generalization id="124">    
+    <bendpoint x="3444" y="1598"/>    
+    <bendpoint x="3444" y="1085"/>    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <dependency id="125">    
+    <bendpoint x="2307" y="3308"/>    
+    <bendpoint x="2508" y="3659"/>    
+    <bendpoint x="2508" y="4334"/>    
+    <bendpoint x="2508" y="5153"/>    
+    <bendpoint x="2529" y="5378"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <nesting id="126">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="21"/>  
+  </nesting>  
+  <association id="127">    
+    <bendpoint x="6783" y="1598"/>    
+    <bendpoint x="6784" y="1967"/>    
+    <bendpoint x="6786" y="2318"/>    
+    <bendpoint x="6789" y="2651"/>    
+    <bendpoint x="6793" y="3308"/>    
+    <bendpoint x="6798" y="3659"/>    
+    <bendpoint x="6804" y="4334"/>    
+    <bendpoint x="6825" y="5153"/>    
+    <bendpoint x="6825" y="5378"/>    
+    <bendpoint x="6825" y="5927"/>    
+    <end type="SOURCE" refId="77" navigable="false" variant="ASSOCIATION">      
+      <attribute id="128" name="user"/>      
+      <multiplicity id="129" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="130">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="131">    
+    <bendpoint x="4245" y="4334"/>    
+    <bendpoint x="4245" y="5153"/>    
+    <bendpoint x="4245" y="5378"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="132">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="133">    
+    <bendpoint x="6096" y="3308"/>    
+    <bendpoint x="6096" y="3659"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="68"/>  
+  </dependency>  
+  <association id="134">    
+    <end type="SOURCE" refId="41" navigable="false" variant="ASSOCIATION">      
+      <attribute id="135" name="objects"/>      
+      <multiplicity id="136" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="137">    
+    <bendpoint x="364" y="482"/>    
+    <bendpoint x="364" y="1085"/>    
+    <bendpoint x="364" y="1598"/>    
+    <bendpoint x="364" y="1967"/>    
+    <bendpoint x="364" y="2318"/>    
+    <bendpoint x="364" y="2651"/>    
+    <bendpoint x="364" y="3308"/>    
+    <bendpoint x="364" y="3659"/>    
+    <bendpoint x="364" y="4334"/>    
+    <bendpoint x="364" y="5153"/>    
+    <bendpoint x="364" y="5378"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <generalization id="138">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <dependency id="139">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <dependency id="140">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="141">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <dependency id="142">    
+    <bendpoint x="3125" y="5153"/>    
+    <bendpoint x="2852" y="5378"/>    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <nesting id="143">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="70"/>  
+  </nesting>  
+  <dependency id="144">    
+    <bendpoint x="1671" y="3659"/>    
+    <bendpoint x="1671" y="4334"/>    
+    <bendpoint x="1734" y="5153"/>    
+    <bendpoint x="1797" y="5378"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="145">    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="64"/>  
+  </dependency>  
+  <dependency id="146">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="67"/>  
+  </dependency>  
+  <dependency id="147">    
+    <end type="SOURCE" refId="91"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="148">    
+    <bendpoint x="5864" y="5153"/>    
+    <end type="SOURCE" refId="91"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <association id="149">    
+    <bendpoint x="3191" y="3308"/>    
+    <bendpoint x="4559" y="3659"/>    
+    <end type="SOURCE" refId="26" navigable="false" variant="ASSOCIATION">      
+      <attribute id="150" name="event"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="152">    
+    <bendpoint x="2894" y="3659"/>    
+    <bendpoint x="2894" y="4334"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <dependency id="153">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="68"/>  
+  </dependency>  
+  <dependency id="154">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="63"/>  
+  </dependency>  
+  <dependency id="155">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="73"/>  
+  </dependency>  
+  <nesting id="156">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <dependency id="157">    
+    <bendpoint x="1019" y="2651"/>    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="158">    
+    <bendpoint x="3507" y="1967"/>    
+    <bendpoint x="3349" y="2318"/>    
+    <bendpoint x="3191" y="2651"/>    
+    <bendpoint x="2873" y="3308"/>    
+    <bendpoint x="2873" y="3659"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="159">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="81"/>  
+  </dependency>  
+  <dependency id="160">    
+    <bendpoint x="3465" y="482"/>    
+    <bendpoint x="3465" y="1085"/>    
+    <bendpoint x="3507" y="1598"/>    
+    <bendpoint x="3528" y="1967"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <dependency id="161">    
+    <bendpoint x="5552" y="5378"/>    
+    <bendpoint x="5552" y="5927"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="162">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="83"/>  
+  </dependency>  
+  <association id="163">    
+    <end type="SOURCE" refId="61" navigable="false" variant="ASSOCIATION">      
+      <attribute id="164" name="children"/>      
+      <multiplicity id="165" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="166">    
+    <bendpoint x="5703" y="4334"/>    
+    <bendpoint x="5804" y="5153"/>    
+    <end type="SOURCE" refId="27" navigable="false" variant="ASSOCIATION">      
+      <attribute id="167" name="contacts"/>      
+      <multiplicity id="168" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="169">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="47"/>  
+  </dependency>  
+  <association id="170">    
+    <bendpoint x="1553" y="3308"/>    
+    <bendpoint x="1553" y="2651"/>    
+    <end type="SOURCE" refId="63" navigable="false" variant="ASSOCIATION">      
+      <attribute id="171" name="mAdapter"/>      
+      <multiplicity id="172" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="66" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="173">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="56"/>  
+  </nesting>  
+  <association id="174">    
+    <bendpoint x="1755" y="4334"/>    
+    <bendpoint x="1755" y="5153"/>    
+    <bendpoint x="1755" y="5378"/>    
+    <bendpoint x="1755" y="5927"/>    
+    <end type="SOURCE" refId="63" navigable="false" variant="ASSOCIATION">      
+      <attribute id="175" name="userList"/>      
+      <multiplicity id="176" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="177">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="178">    
+    <bendpoint x="4996" y="3308"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="60"/>  
+  </dependency>  
+  <dependency id="179">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <generalization id="180">    
+    <bendpoint x="3761" y="1967"/>    
+    <bendpoint x="3761" y="1598"/>    
+    <bendpoint x="3761" y="1085"/>    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <dependency id="181">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <association id="182">    
+    <end type="SOURCE" refId="1" navigable="false" variant="ASSOCIATION">      
+      <attribute id="183" name="listBills"/>      
+      <multiplicity id="184" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="185">    
+    <bendpoint x="5043" y="482"/>    
+    <bendpoint x="5043" y="1085"/>    
+    <bendpoint x="5043" y="1598"/>    
+    <bendpoint x="4837" y="1967"/>    
+    <bendpoint x="4631" y="2318"/>    
+    <bendpoint x="4434" y="2651"/>    
+    <bendpoint x="4237" y="3308"/>    
+    <bendpoint x="3727" y="3659"/>    
+    <bendpoint x="3217" y="4334"/>    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <dependency id="186">    
+    <bendpoint x="3494" y="3659"/>    
+    <bendpoint x="3196" y="4334"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <dependency id="187">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="188">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="60"/>  
+  </dependency>  
+  <association id="189">    
+    <bendpoint x="1430" y="3659"/>    
+    <end type="SOURCE" refId="6" navigable="false" variant="ASSOCIATION">      
+      <attribute id="190" name="guestList"/>      
+      <multiplicity id="191" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="192">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="193">    
+    <bendpoint x="2889" y="482"/>    
+    <bendpoint x="2889" y="1085"/>    
+    <bendpoint x="2889" y="1598"/>    
+    <bendpoint x="2889" y="1967"/>    
+    <bendpoint x="2889" y="2318"/>    
+    <bendpoint x="3050" y="2651"/>    
+    <bendpoint x="3212" y="3308"/>    
+    <bendpoint x="2957" y="3659"/>    
+    <bendpoint x="2936" y="4334"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <association id="194">    
+    <end type="SOURCE" refId="18" navigable="false" variant="ASSOCIATION">      
+      <attribute id="195" name="adapter"/>      
+      <multiplicity id="196" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="197">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <dependency id="198">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <nesting id="199">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <association id="200">    
+    <bendpoint x="5181" y="5153"/>    
+    <end type="SOURCE" refId="30" navigable="false" variant="ASSOCIATION">      
+      <attribute id="201" name="filteredObjects"/>      
+      <multiplicity id="202" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="203">    
+    <end type="SOURCE" refId="82"/>    
+    <end type="TARGET" refId="76"/>  
+  </dependency>  
+  <nesting id="204">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="43"/>  
+  </nesting>  
+  <nesting id="205">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <dependency id="206">    
+    <bendpoint x="2259" y="5153"/>    
+    <bendpoint x="2259" y="5378"/>    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <dependency id="207">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="68"/>  
+  </dependency>  
+  <dependency id="208">    
+    <bendpoint x="2238" y="4334"/>    
+    <bendpoint x="2238" y="5153"/>    
+    <bendpoint x="2280" y="5378"/>    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="209">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="210">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="85"/>  
+  </dependency>  
+  <association id="211">    
+    <end type="SOURCE" refId="20" navigable="false" variant="ASSOCIATION">      
+      <attribute id="212" name="guestList"/>      
+      <multiplicity id="213" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="214">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <dependency id="215">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="216">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="63"/>  
+  </dependency>  
+  <dependency id="217">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="74"/>  
+  </dependency>  
+  <dependency id="218">    
+    <bendpoint x="6506" y="5153"/>    
+    <bendpoint x="6527" y="5378"/>    
+    <bendpoint x="6527" y="5927"/>    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="219">    
+    <bendpoint x="5825" y="5153"/>    
+    <bendpoint x="5825" y="5378"/>    
+    <end type="SOURCE" refId="91"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="220">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <dependency id="221">    
+    <bendpoint x="6313" y="5153"/>    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="222">    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="223">    
+    <bendpoint x="5141" y="4334"/>    
+    <bendpoint x="4838" y="5153"/>    
+    <bendpoint x="4838" y="5378"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <generalization id="224">    
+    <bendpoint x="4652" y="2651"/>    
+    <bendpoint x="4652" y="2318"/>    
+    <bendpoint x="4652" y="1967"/>    
+    <bendpoint x="4652" y="1598"/>    
+    <bendpoint x="4652" y="1085"/>    
+    <end type="SOURCE" refId="82"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <dependency id="225">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <dependency id="226">    
+    <bendpoint x="676" y="3659"/>    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="72"/>  
+  </dependency>  
+  <nesting id="227">    
+    <end type="SOURCE" refId="83"/>    
+    <end type="TARGET" refId="88"/>  
+  </nesting>  
+  <dependency id="228">    
+    <bendpoint x="3697" y="3308"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="63"/>  
+  </dependency>  
+  <dependency id="229">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <association id="230">    
+    <end type="SOURCE" refId="63" navigable="false" variant="ASSOCIATION">      
+      <attribute id="231" name="billItemsList"/>      
+      <multiplicity id="232" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="233">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="90"/>  
+  </dependency>  
+  <dependency id="234">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <dependency id="235">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="236">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="89"/>  
+  </dependency>  
+  <dependency id="237">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="82"/>  
+  </dependency>  
+  <dependency id="238">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="239">    
+    <bendpoint x="5111" y="3308"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <dependency id="240">    
+    <bendpoint x="2752" y="2318"/>    
+    <bendpoint x="2752" y="2651"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="241">    
+    <bendpoint x="6804" y="482"/>    
+    <bendpoint x="6804" y="1085"/>    
+    <bendpoint x="6804" y="1598"/>    
+    <bendpoint x="6660" y="1967"/>    
+    <bendpoint x="6368" y="2318"/>    
+    <bendpoint x="6077" y="2651"/>    
+    <bendpoint x="6117" y="3308"/>    
+    <bendpoint x="6117" y="3659"/>    
+    <bendpoint x="6054" y="4334"/>    
+    <bendpoint x="5160" y="5153"/>    
+    <bendpoint x="4268" y="5378"/>    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <dependency id="242">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="73"/>  
+  </dependency>  
+  <nesting id="243">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="34"/>  
+  </nesting>  
+  <dependency id="244">    
+    <bendpoint x="6138" y="2651"/>    
+    <bendpoint x="6138" y="3308"/>    
+    <bendpoint x="6138" y="3659"/>    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="80"/>  
+  </dependency>  
+  <dependency id="245">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="65"/>  
+  </dependency>  
+  <dependency id="246">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <dependency id="247">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <association id="248">    
+    <end type="SOURCE" refId="63" navigable="false" variant="ASSOCIATION">      
+      <attribute id="249" name="guestList"/>      
+      <multiplicity id="250" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="251">    
+    <bendpoint x="1692" y="4334"/>    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="89"/>  
+  </dependency>  
+  <dependency id="252">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="253">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="254">    
+    <bendpoint x="2022" y="4334"/>    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="255">    
+    <bendpoint x="343" y="482"/>    
+    <bendpoint x="343" y="1085"/>    
+    <bendpoint x="343" y="1598"/>    
+    <bendpoint x="343" y="1967"/>    
+    <bendpoint x="343" y="2318"/>    
+    <bendpoint x="343" y="2651"/>    
+    <bendpoint x="343" y="3308"/>    
+    <bendpoint x="343" y="3659"/>    
+    <bendpoint x="343" y="4334"/>    
+    <bendpoint x="343" y="5153"/>    
+    <bendpoint x="343" y="5378"/>    
+    <bendpoint x="343" y="5927"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="256">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="257">    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <generalization id="258">    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <dependency id="259">    
+    <bendpoint x="5682" y="4334"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="260">    
+    <bendpoint x="1736" y="3659"/>    
+    <end type="SOURCE" refId="84" navigable="false" variant="ASSOCIATION">      
+      <attribute id="261" name="guests"/>      
+      <multiplicity id="262" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="263">    
+    <end type="SOURCE" refId="87" navigable="false" variant="ASSOCIATION">      
+      <attribute id="264" name="drawerItemList"/>      
+      <multiplicity id="265" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="266">    
+    <bendpoint x="3739" y="3308"/>    
+    <bendpoint x="2936" y="3659"/>    
+    <bendpoint x="2810" y="4334"/>    
+    <bendpoint x="2810" y="5153"/>    
+    <bendpoint x="2810" y="5378"/>    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="267">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="268">    
+    <end type="SOURCE" refId="82"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <association id="269">    
+    <end type="SOURCE" refId="30" navigable="false" variant="ASSOCIATION">      
+      <attribute id="270" name="mFilter"/>      
+      <multiplicity id="271" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="272">    
+    <bendpoint x="1776" y="4334"/>    
+    <bendpoint x="1776" y="5153"/>    
+    <bendpoint x="1776" y="5378"/>    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <dependency id="273">    
+    <bendpoint x="2873" y="4334"/>    
+    <bendpoint x="3625" y="5153"/>    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <association id="274">    
+    <bendpoint x="909" y="3308"/>    
+    <bendpoint x="918" y="3659"/>    
+    <bendpoint x="928" y="4334"/>    
+    <bendpoint x="928" y="5153"/>    
+    <end type="SOURCE" refId="26" navigable="false" variant="ASSOCIATION">      
+      <attribute id="275" name="listExpense"/>      
+      <multiplicity id="276" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="277">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="41"/>  
+  </dependency>  
+  <dependency id="278">    
+    <bendpoint x="6334" y="5153"/>    
+    <bendpoint x="6334" y="5378"/>    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="279">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="82"/>  
+  </dependency>  
+  <dependency id="280">    
+    <bendpoint x="4290" y="2651"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <dependency id="281">    
+    <bendpoint x="1818" y="5153"/>    
+    <bendpoint x="1818" y="5378"/>    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <dependency id="282">    
+    <bendpoint x="6030" y="5153"/>    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="283">    
+    <bendpoint x="5001" y="3308"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="284">    
+    <bendpoint x="3760" y="3308"/>    
+    <bendpoint x="3473" y="3659"/>    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="49"/>  
+  </dependency>  
+  <dependency id="285">    
+    <bendpoint x="1511" y="3308"/>    
+    <bendpoint x="1622" y="3659"/>    
+    <bendpoint x="1734" y="4334"/>    
+    <bendpoint x="1797" y="5153"/>    
+    <bendpoint x="1839" y="5378"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="286">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="287">    
+    <bendpoint x="6075" y="3308"/>    
+    <bendpoint x="6075" y="3659"/>    
+    <bendpoint x="6075" y="4334"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="288">    
+    <bendpoint x="6825" y="482"/>    
+    <bendpoint x="6825" y="1085"/>    
+    <bendpoint x="6825" y="1598"/>    
+    <bendpoint x="6825" y="1967"/>    
+    <bendpoint x="6825" y="2318"/>    
+    <bendpoint x="6825" y="2651"/>    
+    <bendpoint x="6825" y="3308"/>    
+    <bendpoint x="6825" y="3659"/>    
+    <bendpoint x="6825" y="4334"/>    
+    <bendpoint x="6804" y="5153"/>    
+    <bendpoint x="6804" y="5378"/>    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="289">    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="290">    
+    <bendpoint x="3212" y="2651"/>    
+    <bendpoint x="3718" y="3308"/>    
+    <bendpoint x="2978" y="3659"/>    
+    <bendpoint x="2957" y="4334"/>    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <association id="291">    
+    <end type="SOURCE" refId="48" navigable="false" variant="ASSOCIATION">      
+      <attribute id="292" name="bills"/>      
+      <multiplicity id="293" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="294">    
+    <bendpoint x="2529" y="5153"/>    
+    <bendpoint x="2508" y="5378"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <dependency id="295">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="296">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <association id="297">    
+    <end type="SOURCE" refId="13" navigable="false" variant="ASSOCIATION">      
+      <attribute id="298" name="adapter"/>      
+      <multiplicity id="299" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="300">    
+    <bendpoint x="2931" y="2318"/>    
+    <bendpoint x="2889" y="2651"/>    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <nesting id="301">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="37"/>  
+  </nesting>  
+  <association id="302">    
+    <end type="SOURCE" refId="28" navigable="false" variant="ASSOCIATION">      
+      <attribute id="303" name="listUsers"/>      
+      <multiplicity id="304" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="305">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <nesting id="306">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="40"/>  
+  </nesting>  
+  <dependency id="307">    
+    <bendpoint x="1220" y="3308"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="308">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <dependency id="309">    
+    <bendpoint x="1462" y="5153"/>    
+    <bendpoint x="1462" y="5378"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <dependency id="310">    
+    <bendpoint x="5573" y="5378"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="311">    
+    <bendpoint x="2069" y="4334"/>    
+    <bendpoint x="2069" y="5153"/>    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="78"/>  
+  </dependency>  
+  <dependency id="312">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <association id="313">    
+    <end type="SOURCE" refId="60" navigable="false" variant="ASSOCIATION">      
+      <attribute id="314" name="listEvents"/>      
+      <multiplicity id="315" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="316">    
+    <bendpoint x="4287" y="4334"/>    
+    <bendpoint x="4308" y="5153"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="317">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="318">    
+    <end type="SOURCE" refId="86"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <dependency id="319">    
+    <bendpoint x="6156" y="5153"/>    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <association id="320">    
+    <bendpoint x="949" y="3659"/>    
+    <bendpoint x="949" y="4334"/>    
+    <bendpoint x="949" y="5153"/>    
+    <end type="SOURCE" refId="83" navigable="false" variant="ASSOCIATION">      
+      <attribute id="321" name="expenses"/>      
+      <multiplicity id="322" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="323">    
+    <bendpoint x="3146" y="5153"/>    
+    <bendpoint x="3146" y="5378"/>    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <dependency id="324">    
+    <bendpoint x="4929" y="482"/>    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="77"/>  
+  </dependency>  
+  <dependency id="325">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="326">    
+    <bendpoint x="2286" y="3308"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="63"/>  
+  </dependency>  
+  <dependency id="327">    
+    <bendpoint x="2999" y="3659"/>    
+    <bendpoint x="2915" y="4334"/>    
+    <bendpoint x="2852" y="5153"/>    
+    <bendpoint x="2789" y="5378"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <dependency id="328">    
+    <bendpoint x="4258" y="3308"/>    
+    <bendpoint x="4116" y="3659"/>    
+    <bendpoint x="3975" y="4334"/>    
+    <bendpoint x="3604" y="5153"/>    
+    <bendpoint x="3604" y="5378"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="329">    
+    <bendpoint x="5261" y="3659"/>    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="68"/>  
+  </dependency>  
+  <dependency id="330">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <dependency id="331">    
+    <bendpoint x="3104" y="5153"/>    
+    <bendpoint x="2831" y="5378"/>    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="79"/>  
+  </dependency>  
+  <dependency id="332">    
+    <bendpoint x="2789" y="5153"/>    
+    <bendpoint x="2873" y="5378"/>    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="333">    
+    <bendpoint x="5202" y="5153"/>    
+    <end type="SOURCE" refId="30" navigable="false" variant="ASSOCIATION">      
+      <attribute id="334" name="objects"/>      
+      <multiplicity id="335" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="336">    
+    <bendpoint x="4547" y="482"/>    
+    <bendpoint x="4547" y="1085"/>    
+    <bendpoint x="4547" y="1598"/>    
+    <bendpoint x="4631" y="1967"/>    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <dependency id="337">    
+    <bendpoint x="6762" y="1598"/>    
+    <bendpoint x="6639" y="1967"/>    
+    <bendpoint x="6666" y="2318"/>    
+    <bendpoint x="6694" y="2651"/>    
+    <bendpoint x="6723" y="3308"/>    
+    <bendpoint x="6753" y="3659"/>    
+    <bendpoint x="6783" y="4334"/>    
+    <bendpoint x="6783" y="5153"/>    
+    <bendpoint x="6506" y="5378"/>    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="338">    
+    <bendpoint x="6846" y="482"/>    
+    <bendpoint x="6846" y="1085"/>    
+    <bendpoint x="6846" y="1598"/>    
+    <bendpoint x="6846" y="1967"/>    
+    <bendpoint x="6846" y="2318"/>    
+    <bendpoint x="6846" y="2651"/>    
+    <bendpoint x="6846" y="3308"/>    
+    <bendpoint x="6846" y="3659"/>    
+    <bendpoint x="6846" y="4334"/>    
+    <bendpoint x="6846" y="5153"/>    
+    <bendpoint x="6846" y="5378"/>    
+    <bendpoint x="6846" y="5927"/>    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="339">    
+    <bendpoint x="3149" y="3308"/>    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="63"/>  
+  </dependency>  
+  <dependency id="340">    
+    <bendpoint x="4279" y="3308"/>    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="341">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <dependency id="342">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="343">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="87"/>  
+  </dependency>  
+  <dependency id="344">    
+    <end type="SOURCE" refId="85"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <generalization id="345">    
+    <bendpoint x="3724" y="1085"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <dependency id="346">    
+    <bendpoint x="2789" y="4334"/>    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

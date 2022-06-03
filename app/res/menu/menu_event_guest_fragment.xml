@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/actionAddGuest"
+        android:icon="@drawable/ic_add_user"
+        android:orderInCategory="90"
+        android:showAsAction="always|collapseActionView"
+        android:title="Add guests"/>
+
+</menu>

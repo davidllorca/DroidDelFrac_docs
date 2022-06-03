@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageButton
+        android:id="@+id/icPerfilInvitePerson"
+        android:layout_width="@android:dimen/app_icon_size"
+        android:layout_height="@android:dimen/app_icon_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/circle"
+        android:src="@drawable/ic_launcher_oval" />
+
+    <CheckBox
+        android:id="@+id/checkInviteContacts"
+        android:layout_width="@android:dimen/app_icon_size"
+        android:layout_height="@android:dimen/app_icon_size"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="24dp"/>
+
+    <TextView
+        android:id="@+id/nameContactListInvitePersonEvent"
+        android:layout_width="match_parent"
+        android:layout_height="@android:dimen/app_icon_size"
+        android:layout_toRightOf="@id/icPerfilInvitePerson"
+        android:layout_toStartOf="@id/checkInviteContacts"
+        android:gravity="center|center_vertical"
+        android:text="contact name" />
+    
+   <!--  <TextView 
+        android:id="@+id/textViewIdUser"
+        android:visibility="invisible"/> -->
+    
+
+</RelativeLayout>

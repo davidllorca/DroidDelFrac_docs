@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ExpanadbleListViews para los tres tipos de eventos -->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollViewEventList"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white" >
+        
+        <ImageView
+        android:id="@+id/imageNoEvents"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/aviso"
+        android:visibility="gone" />
+    
+    	<TextView
+        android:id="@+id/textNoEvents"
+        android:layout_below="@+id/imageNoEvents"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+    	android:layout_marginRight="20dp"
+        android:visibility="gone"
+        android:textSize="18sp"
+        android:text="@string/createEvent" />
+        
+        <ImageView
+        android:id="@+id/imageViewUpcomingEvents"
+        android:layout_width="65dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/eventlogo" />
+
+        <TextView
+            android:id="@+id/textViewUpcomingEvents"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/upcomingEvents"
+            android:layout_below="@id/imageViewUpcomingEvents"
+            android:textColor="@color/green_droid"
+            android:layout_marginBottom="15dp"
+            android:textSize="17dip"
+            android:textStyle="bold" />
+
+        <ExpandableListView
+            android:id="@+id/expandableListViewUpcomingEvents"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textViewUpcomingEvents" >
+        </ExpandableListView>
+        
+        <ImageView
+        android:id="@+id/imageViewClosedEvents"
+        android:layout_below="@id/expandableListViewUpcomingEvents"
+        android:layout_width="65dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/eventlogo" />
+
+        <TextView
+            android:id="@+id/textViewClosedEvents"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"            
+            android:layout_below="@id/imageViewClosedEvents"
+            android:layout_centerHorizontal="true"
+            android:text="@string/closedEvents"
+            android:textColor="@color/green_droid"
+            android:layout_marginBottom="15dp"
+            android:textSize="17dip"
+            android:textStyle="bold" />
+
+        <ExpandableListView
+            android:id="@+id/expandableListViewClosedEvents"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textViewClosedEvents" >
+        </ExpandableListView>
+        
+        <ImageView
+        android:id="@+id/imageViewPendingEvents"
+        android:layout_below="@id/expandableListViewClosedEvents"
+        android:layout_width="65dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/eventlogo" />
+
+        <TextView
+            android:id="@+id/textViewPendingEvents"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/pendingEvents"
+            android:layout_below="@id/imageViewPendingEvents"
+            android:textColor="@color/green_droid"
+            android:layout_marginBottom="15dp"
+            android:textSize="17dip"
+            android:textStyle="bold" />
+
+        <ExpandableListView
+            android:id="@+id/expandableListViewPendingEvents"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textViewPendingEvents" >
+        </ExpandableListView>
+
+
+
+    </RelativeLayout>
+
+</ScrollView>

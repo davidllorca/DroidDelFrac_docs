@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/actionNewevent"
+        android:icon="@drawable/ic_new_event"
+        android:orderInCategory="90"
+        android:showAsAction="always|collapseActionView"
+        android:title="New event"/>
+
+</menu>

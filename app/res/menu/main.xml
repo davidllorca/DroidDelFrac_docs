@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/actionCloseEvent"
+        android:orderInCategory="100"
+        android:icon="@drawable/open"
+        android:showAsAction="always|collapseActionView"
+        android:title="settings"/>
+
+</menu>

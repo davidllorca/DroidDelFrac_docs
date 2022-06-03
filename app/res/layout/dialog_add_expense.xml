@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="24dp" >
+
+    <EditText
+        android:id="@+id/edtNameExpense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="12dp"
+        android:hint="@string/expenseName" />
+
+    <EditText
+        android:id="@+id/edtAmountExpense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/edtNameExpense"
+        android:layout_alignRight="@id/edtNameExpense"
+        android:layout_below="@id/edtNameExpense"
+        android:hint="@string/expenseAmount"
+        android:inputType="numberDecimal" />
+
+    <LinearLayout
+        android:id="@+id/linearButtonsAddExpense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/edtNameExpense"
+        android:layout_alignRight="@id/edtNameExpense"
+        android:layout_below="@id/edtAmountExpense" >
+
+        <Button
+            android:id="@+id/btnCandelExpense"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/cancel" />
+
+        <Button
+            android:id="@+id/btnAddExpense"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/add" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lvGuest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linearButtonsAddExpense" >
+    </ListView>
+
+</RelativeLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CHILD -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/green_droid"
+    android:orientation="horizontal" > <!-- android:background="@drawable/bar_bg" -->
+
+    <ImageView
+        android:id="@+id/imageChild"
+        android:layout_width="80dip"
+        android:layout_height="80dip"
+        android:layout_margin="20dip"
+        android:src="@drawable/ic_launcher" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/descriptionChild"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:text="Descrición del evento"
+            android:textColor="@color/white"
+            android:textSize="18dip" />
+
+        <TextView
+            android:id="@+id/placeChild"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/descriptionChild"
+            android:layout_weight="1"
+            android:text="Lugar del evento"
+            android:textColor="@color/white"
+            android:textSize="12dip" />
+
+        <TextView
+            android:id="@+id/dateChild"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/placeChild"
+            android:text="fecha"
+            android:textColor="@color/white"
+            android:textSize="12dip" />
+
+        <TextView
+            android:id="@+id/amountChild"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/dateChild"
+            android:text="100,00 €"
+            android:textColor="@color/white"
+            android:textSize="12dip" />
+    </RelativeLayout>
+
+</LinearLayout>

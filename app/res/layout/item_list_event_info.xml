@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/importEventInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center|center_vertical"
+        android:textSize="16sp"
+        android:text="Import" />
+
+    <TextView
+        android:id="@+id/nameConceptEventInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@id/importEventInfo"
+        android:textSize="16sp"
+        android:text="concepto" />
+
+    <TextView
+        android:id="@+id/nameContactEventInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/nameConceptEventInfo"
+        android:layout_toStartOf="@id/importEventInfo"
+        android:text="contacto"
+        android:layout_marginBottom="10dp"
+        android:textSize="14sp" />
+
+</RelativeLayout>

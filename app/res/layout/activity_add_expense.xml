@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context="org.escoladeltreball.droiddelfrac.AddExpenseActivity" >
+
+    <TextView
+        android:id="@+id/tvContactAddExpense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:text="@string/who_do_payment" />
+
+
+    <Spinner
+        android:id="@+id/spContactAddExpense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvContactAddExpense"
+        android:layout_marginTop="30dp" />
+
+    <TextView
+        android:id="@+id/tvPaymnetAddExpense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spContactAddExpense"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        android:text="@string/amount_payment" />
+
+    <EditText
+        android:id="@+id/edAmountAddExpense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/spContactAddExpense"
+        android:layout_below="@id/tvPaymnetAddExpense"
+        android:digits="0123456789."
+		android:inputType="numberDecimal"
+        android:hint="@string/addAmount" />
+
+    <TextView
+        android:id="@+id/tvConceptAddExpense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edAmountAddExpense"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        android:text="@string/concept_payment" />
+
+    <EditText
+        android:id="@+id/edConceptAddExpense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/spContactAddExpense"
+        android:layout_alignRight="@id/spContactAddExpense"
+        android:layout_below="@id/tvConceptAddExpense"
+        android:hint="@string/concept_example" />
+
+</RelativeLayout>

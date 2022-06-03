@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/actionSyncContacts"
+        android:icon="@drawable/ic_action_refresh"
+        android:orderInCategory="90"
+        android:showAsAction="always|collapseActionView"
+        android:title="Send invitations"/>
+    <item
+        android:id="@+id/actionAddPhantomGuest"
+        android:icon="@drawable/ic_add_phantom"
+        android:orderInCategory="90"
+        android:showAsAction="always|collapseActionView"
+        android:title="New phantom guest"/>
+    <item
+        android:id="@+id/actionSendInvitations"
+        android:icon="@drawable/send"
+        android:orderInCategory="90"
+        android:showAsAction="always|collapseActionView"
+        android:title="Send invitations"/>
+
+</menu>
